@@ -12,7 +12,8 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
     </head>
-    <body>
+    <body>  
+        
         <?php
         $_SESSION["val01"]="Nuevo";
         $valor02="hola";
